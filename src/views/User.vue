@@ -1,5 +1,6 @@
 <template>
 	<div id="user">
+		<vue-headful title="Vue.js Demo | User" description="The user page" />
 		<h1>The user page!</h1>
 		<h3>This page is a new route called user.</h3>
 		<p>

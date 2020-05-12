@@ -1,5 +1,6 @@
 <template>
 	<div class="home">
+		<vue-headful title="Vue.js Demo | Home" description="The home page" />
 		<h1>This is the home page!</h1>
 		<h3>This is the main page of this web app</h3>
 		<p>
