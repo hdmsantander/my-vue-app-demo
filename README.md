@@ -1,24 +1,7 @@
-# my-vue-app-demo
+# A basic vue app demo
+## Powered by webpack and netlify
 
-## Project setup
-```
-npm install
-```
+This repo showcases basic aspects of Vue.js, such as using routing within the pages of the app and lazy loading of components when accesing links through internal routes.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Also, this repo is configured with netlify to enable deployment of the current build of the main branch.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
